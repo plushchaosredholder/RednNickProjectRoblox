@@ -1,5 +1,5 @@
 -- BABFT_Bundle.lua
--- Biblioteca Unificada para Build A Boat For Treasure
+-- Biblioteca Unificada (Bundle XD)
 
 local BABFT = {}
 local Modules = {}
